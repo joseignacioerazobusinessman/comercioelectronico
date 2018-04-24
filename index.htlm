@@ -1,0 +1,101 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Jose Ignacio Erazo. Businessman.</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body id="top">
+
+		<!-- Barra izquierda -->
+			<header id="header">
+				<!-- Tu imagen -->
+				<a href="#" class="image avatar"><img src="https://raw.githubusercontent.com/joseignacioerazobusinessman/joseignacioerazobusinessman.github.io/master/images/IMG_20171026_094202.jpg" alt="" /></a>
+				<!-- Tu perfil -->
+				<h1><strong>Jose Ignacio Erazo</strong>, Businessman.<br />
+			</header>
+
+		<!-- Contenido principal -->
+			<div id="main">
+					<section id="one">
+						<header class="major">
+							<!-- Tu perfil - Título -->
+							<h2>Jose Ignacio Erazo - Businessman.</h2>
+						</header>
+						<!-- Tu perfil - Descripción -->
+						<p>A lo largo de mi carrera me he destacado por llevar procesos de marketing y negocios de network.</p>
+						<ul class="actions">
+							<li><a href="https://www.linkedin.com/in/josé-ignacio-erazo-96188036/" target="_blank" class="button">Conoce más de mi trabajo.</a></li>
+						</ul>
+					</section>
+
+					<!-- Tu portafolio - Lo más importante -->
+					<section id="two">
+						<h2>Mejores experiencias</h2>
+						<div class="row">
+							
+							</article>
+						
+							<article class="6u 12u$(xsmall) work-item">
+								<!-- Tu portafolio - ¿Hacia dónde los vas a mandar? -->	
+								<a href="https://dubli.com/co/es/?utm_baid=9701892&utm_content=4&utm_name=referral&utm_source=dubli&utm_medium=web" target="_blank" class="imagen.ccdubli.2018.jpeg"><img src="https://raw.githubusercontent.com/joseignacioerazobusinessman/joseignacioerazobusinessman.github.io/master/images/imagen.ccdubli.jpeg" alt="" /></a>
+								<h3>Formo parte de la Comunidad Dubli.</h3>
+								<p>La comunidad de e-Commerce más grande del mundo.</p>
+							</article>
+							
+							<article class="6u$ 12u$(xsmall) work-item">
+								<a href="https://medium.com/@joseignacioerazo/marca-compartida-con-el-programa-bsp-rewards-9ceb21c5825a" target="_blank" class="Programa de socios BSP Rewards.JPG"><img src="https://raw.githubusercontent.com/joseignacioerazobusinessman/joseignacioerazobusinessman.github.io/master/images/Programa%20BSP%20Rewards.jpg" alt="" /></a>
+								<h3>Escribo en Medium.</h3>
+								<p>Escribo sobre el programa bsp rewards y marca compartida.</p>
+							</article>
+							<article class="6u$ 12u$(xsmall) work-item">
+								<a href="https://medium.com/@joseignacioerazo/una-gran-compa%C3%B1%C3%ADa-en-el-mercado-e-commerce-d7461c015e40" target="_blank" class="https://cdn-images-1.medium.com/max/720/0*aHS4azhV4oS5RZSu.jpg"><img src="https://raw.githubusercontent.com/joseignacioerazobusinessman/joseignacioerazobusinessman.github.io/master/images/dubli-the-future-starts-now-6-728.jpg" alt="" /></a>
+								<h3>Escribo en Medium.</h3>
+								<p>Escribo sobre el e-Commerce.</p>
+							</article>
+						</div>
+					</section>
+			</div>
+
+		<!-- Footer -->
+		
+		<!-- Tus redes sociales -->	
+			<footer id="footer">
+				<ul class="icons">
+					<!-- Conoce todos los íconos en http://fontawesome.io/icons/ -->
+					<!-- Solamente cambias en class="icon fa-IconoQueTuQuieras" -->
+					<li><a href="https://www.facebook.com/joseph.erazo.dubli/" target="_blank" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+					<li><a href="https://www.youtube.com/channel/UCoDR9PURY4P2V0ypkhTTrsg" target="_blank" class="icon fa-youtube"><span class="label">YouTube</span></a></li>
+					<li><a href="https://www.instagram.com/joseignacioerazo/" target="_blank" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+					<li><a href="mailto:jose.ignacio.erazo.businessman@gmail.com" target="_blank" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+				</ul>
+				
+		<!-- El área final -->				
+				<ul class="copyright">
+					
+					<li>&copy; Curso de Marca Personal</li><li><a href="http://platzi.com" target="_blank">Platzi</a></li><li>Diseño: <a href="http://html5up.net">HTML5 UP</a></li>
+				</ul>
+			</footer>
+
+		<!-- Scripts + Google Analytics -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-79451882-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+	</body>
+</html>
